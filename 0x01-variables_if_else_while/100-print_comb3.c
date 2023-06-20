@@ -28,5 +28,7 @@ int main(void)
 			tens++;
 			ones = tens + '1';
 		}
+	}
+	return (0)
 }
 
