@@ -29,6 +29,6 @@ int main(void)
 			ones = tens + '1';
 		}
 	}
-	return (0)
+	return (0);
 }
 
