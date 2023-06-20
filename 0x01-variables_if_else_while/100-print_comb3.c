@@ -8,8 +8,8 @@
 
 int main(void)
 {
-	int tens = 1;
-	int ones = 0;
+	int tens = 0;
+	int ones = 1;
 
 	while (tens <= 8)
 	{
