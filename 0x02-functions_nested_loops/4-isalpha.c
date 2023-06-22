@@ -6,7 +6,7 @@
  * Return: 1 for alphabetic character and 0 if otherwide
  */
 
-int _isalpha(int c);
+int _isalpha(int c)
 {
 
 	if ((c >= 'A' && c <= 'Z') || (c >= 'a' && c <= 'z'))
