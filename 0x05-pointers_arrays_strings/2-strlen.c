@@ -3,7 +3,9 @@
 /**
  * _strlen - returns the length of a string
  * @s: address to a string
- * return: length of the string
+ * temp: a local variable
+ *
+ * Return: the length of the string
  */
 
 int _strlen(char *s)
@@ -15,6 +17,6 @@ int _strlen(char *s)
 		temp++;
 		s++;
 	}
-	return temp;
+	return (temp);
 }
 
