@@ -1,4 +1,4 @@
-# What are the most common C standard library functions to manipulate strings
+# 0x07. C - Even more pointers, arrays and strings
 
 ## Resources
 **Read or watch**
