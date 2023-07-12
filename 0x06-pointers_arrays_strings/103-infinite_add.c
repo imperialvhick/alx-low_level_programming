@@ -28,7 +28,7 @@ void rev_string(char *n)
 
 /**
  * infinite_add - add 2 numbers together
- * @n1: first number to be added 
+ * @n1: first number to be added
  * @n2: second number to be added
  * @r: buffer to store results
  * @size_r: buffer size
@@ -47,7 +47,7 @@ char *infinite_add(char *n1, char *n2, char *r, int size_r)
 	i--;
 	j--;
 	if (j >= size_r || i >= size_r)
-		return(0);
+		return (0);
 	while (j >= 0 || i >= 0 || over == 1)
 	{
 		if (i < 0)
